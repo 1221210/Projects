@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\projects\chapter17\ch17linkedlist\ch17linkedlist\source.cpp(46): warning C4715: 'searchNode': not all control paths return a value
+  Ch17LinkedList.vcxproj -> E:\projects\chapter17\Ch17LinkedList\Debug\Ch17LinkedList.exe

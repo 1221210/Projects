@@ -1,0 +1,12 @@
+Make variables for project such as accountNo, R and P , morning and night time cell usage
+
+When program is run prompt user forr account number, a service code (R or P) else error message
+
+If P is chosen prompt to enter minites used during the day and at night
+
+for premuim make math for first 75 minites being free as well as .10 for every minite over (morning), and standard being free 50 minites as well as .20 per minite over (morning)
+for premuim make math for first 100 minites being free as well as .05 for every minite over (morning), and standard being same as prior
+output account number, minites used, and amount due.
+
+
+thoughts , take total cell phone minites and jusr subtract free minites times minite over cost to get thing

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/9.4 Inheritance/9.4 Inheritance.iml" filepath="$PROJECT_DIR$/9.4 Inheritance/9.4 Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculatorOyOCh6/CalculatorOyOCh6.iml" filepath="$PROJECT_DIR$/CalculatorOyOCh6/CalculatorOyOCh6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch11ErrorHandlingBGS/Ch11ErrorHandlingBGS.iml" filepath="$PROJECT_DIR$/Ch11ErrorHandlingBGS/Ch11ErrorHandlingBGS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch12GUIS/Ch12GUIS.iml" filepath="$PROJECT_DIR$/Ch12GUIS/Ch12GUIS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch12GridBag/Ch12GridBag.iml" filepath="$PROJECT_DIR$/Ch12GridBag/Ch12GridBag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch13 Gui FunProject/Ch13 Gui FunProject.iml" filepath="$PROJECT_DIR$/Ch13 Gui FunProject/Ch13 Gui FunProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch5BGPVoting/Ch5BGPVoting.iml" filepath="$PROJECT_DIR$/Ch5BGPVoting/Ch5BGPVoting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch5BGPv2/Ch5BGPv2.iml" filepath="$PROJECT_DIR$/Ch5BGPv2/Ch5BGPv2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch6Bullseye/Ch6Bullseye.iml" filepath="$PROJECT_DIR$/Ch6Bullseye/Ch6Bullseye.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch6Calculator/Ch6Calculator.iml" filepath="$PROJECT_DIR$/Ch6Calculator/Ch6Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch7and8 pairshare/Ch7and8 pairshare.iml" filepath="$PROJECT_DIR$/Ch7and8 pairshare/Ch7and8 pairshare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch7gradebook/Ch7gradebook.iml" filepath="$PROJECT_DIR$/Ch7gradebook/Ch7gradebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExperiementTicTacExampe/ExperiementTicTacExampe.iml" filepath="$PROJECT_DIR$/ExperiementTicTacExampe/ExperiementTicTacExampe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceOYOSelby/InheritanceOYOSelby.iml" filepath="$PROJECT_DIR$/InheritanceOYOSelby/InheritanceOYOSelby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JTabbedFrame/JTabbedFrame.iml" filepath="$PROJECT_DIR$/JTabbedFrame/JTabbedFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaGuiAndGraphicsBGScomboBoxSelby/JavaGuiAndGraphicsBGScomboBoxSelby.iml" filepath="$PROJECT_DIR$/JavaGuiAndGraphicsBGScomboBoxSelby/JavaGuiAndGraphicsBGScomboBoxSelby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shapes2JPanel/Shapes2JPanel.iml" filepath="$PROJECT_DIR$/Shapes2JPanel/Shapes2JPanel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmallGroupCh5ControlStructuresCourtwarming/SmallGroupCh5ControlStructuresCourtwarming.iml" filepath="$PROJECT_DIR$/SmallGroupCh5ControlStructuresCourtwarming/SmallGroupCh5ControlStructuresCourtwarming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test Program JAva/Test Program JAva.iml" filepath="$PROJECT_DIR$/Test Program JAva/Test Program JAva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/TicTacToe/TicTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicTacToe2/TicTacToe2.iml" filepath="$PROJECT_DIR$/TicTacToe2/TicTacToe2.iml" />
+    </modules>
+  </component>
+</project>

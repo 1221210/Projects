@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\iselby646\source\repos\ch6sgp\ch6sgp\source.cpp(74): warning C4244: 'initializing': conversion from 'double' to 'char', possible loss of data
+  ch6SGP.vcxproj -> C:\Users\iselby646\source\repos\ch6SGP\Debug\ch6SGP.exe

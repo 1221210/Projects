@@ -1,0 +1,75 @@
+﻿My email : droberts849@lsr7.net
+
+
+
+
+Band Management:
+
+
+* Prompts user (Dr. Music) for the number of brass players, the number of winds players, and the number of percussionist players in the parade.
+* Prompts user (Dr. Music) for band formation width.
+* Based on total band member no and formation width, output a diagram showing the formation. (M as display character) (don’t forget to add the label the instructions ask for)
+* Implement a feature to cut the band size by half due to a float malfunction, also adjust band formation width and use lowercase m to be display char. (include label to tell about changed width)
+
+
+
+
+
+
+
+
+
+
+Football Scoreboard:
+-Prompt the user for the number of touchdowns and field goals scored in the game.
+-Calculate the total number of points per quarter per team. Field goals are worth 3 and touchdowns are worth 7.
+-At the end of the four quarters check to see if there is a game winner or if it is tied. If there is a clear winner congratulate the winning team and exit the program.
+-If tied display a message that you are going into overtime
+-(Using the do while loop) Prompt again for the scoring event of the quarter and calculate and display the scoring events for that quarter. If there is no clear winner then the teams will keep playing until a clear winner is determined
+-Once there is a winner congratulate the winner and output the final score.
+
+
+
+
+
+
+Snack Bar: 
+* Define variables, such as menu items, tax, and the stock of each item.
+* Cout an introduction, welcoming the user to the snack bar. //done
+* Cout a menu with food options (5 hot food items at least along with 5 other items) //done
+   * Print a description for each item along with a price. //done
+   * Only display the items that you have in stock.
+
+
+* Use cin and if statements to allow a user to choose a menu item they would like, customers can order as much as they like as long as you still have that item in stock.
+* Display a receipt with the items ordered, the price per item, food total, tax rate, and tax due based on food total, then the total cost for the food + tax. (Tax is fixed at a constant rate of .0395) 
+* After each order, print a display of how much of each entree is left for sale in the snack bar.
+* Keep the snack bar open until all of the hot food items are gone (NOTE: only the hot food items, not the extra items.
+* Encase all code in a Do… While statement for until all hot food items are gone.
+
+
+
+
+Dance Music:
+1. Input txt directory of with:
+You_Are_My_Sunshine 4.25
+ Feeling_Groovy 5.50 
+How_Much_Is_That_Doggy_in_the_Window? 3.75
+ The_Hokey_Pokey 4.50
+ Fruit_Salad,_Yummy,_Yummy 5.75
+ The_Wheels_on_the_Bus_Go_Round 7.00 
+Itsy_Bitsy_Spider 2.75 Dance_the_Macarena 10.75
+ Supercalifragilisticexpialidocious 8.50
+ Happy 3.75
+ Monster_Mash 6.00
+ You_Are_My_Sunshine_-_Encore_Performance 4.25
+      2. Start stopwatch and display on going time
+      3. Read to display first line of text file and play song
+      4. End Song
+      5. Use while statement to repeat steps 2-4 until played last song or time reaches one hour
+      6.  Close text file
+      7. Display C++ programming joke/meme
+      8. Display “ Then thank you audience for being the awesome MudMoles that they are. Thanks MMMAB for selecting such groovy songs. Good Night”
+
+
+Module Menu:

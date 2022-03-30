@@ -1,0 +1,8 @@
+﻿  StudGradAv.cpp
+e:\student grade function\student grade function\studgradav.cpp(52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\student grade function\student grade function\studgradav.cpp(60): warning C4390: ';': empty controlled statement found; is this the intent?
+e:\student grade function\student grade function\studgradav.cpp(65): warning C4390: ';': empty controlled statement found; is this the intent?
+e:\student grade function\student grade function\studgradav.cpp(70): warning C4390: ';': empty controlled statement found; is this the intent?
+e:\student grade function\student grade function\studgradav.cpp(74): warning C4390: ';': empty controlled statement found; is this the intent?
+e:\student grade function\student grade function\studgradav.cpp(78): warning C4390: ';': empty controlled statement found; is this the intent?
+  Student Grade Function.vcxproj -> E:\Student Grade Function\Debug\Student Grade Function.exe

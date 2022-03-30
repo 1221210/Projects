@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\projects\C++ projects\chapter9\TicTacToeExtraCredSelby\TicTacToeExtraCredSelby\Source.cpp(48,8): warning C4102: 'potato': unreferenced label
+E:\projects\C++ projects\chapter9\TicTacToeExtraCredSelby\TicTacToeExtraCredSelby\Source.cpp(42,7): warning C4101: 'seatClass': unreferenced local variable
+E:\projects\C++ projects\chapter9\TicTacToeExtraCredSelby\TicTacToeExtraCredSelby\Source.cpp(209,16): warning C4101: 'column1': unreferenced local variable
+  TicTacToeExtraCredSelby.vcxproj -> E:\projects\C++ projects\chapter9\TicTacToeExtraCredSelby\Debug\TicTacToeExtraCredSelby.exe

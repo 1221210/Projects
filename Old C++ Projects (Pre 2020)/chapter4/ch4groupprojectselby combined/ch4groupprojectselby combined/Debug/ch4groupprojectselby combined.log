@@ -1,0 +1,21 @@
+﻿  Master program Roadkill.cpp
+e:\master program roadkill.cpp(88): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\master program roadkill.cpp(92): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\master program roadkill.cpp(93): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\master program roadkill.cpp(94): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\master program roadkill.cpp(95): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\master program roadkill.cpp(96): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\master program roadkill.cpp(118): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+e:\master program roadkill.cpp(118): warning C4309: 'argument': truncation of constant value
+e:\master program roadkill.cpp(125): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+e:\master program roadkill.cpp(125): warning C4309: 'argument': truncation of constant value
+e:\master program roadkill.cpp(75): warning C4101: 'amt': unreferenced local variable
+  ch4groupprojectselby combined.vcxproj -> C:\Users\Ian Selby\source\repos\ch4groupprojectselby combined\Debug\ch4groupprojectselby combined.exe

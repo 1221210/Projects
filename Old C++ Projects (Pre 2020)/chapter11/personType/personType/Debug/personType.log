@@ -1,0 +1,14 @@
+﻿  athletesImp.cpp
+c:\users\iselby646\source\repos\persontype\persontype\athletes.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  bandMemberImp.cpp
+c:\users\iselby646\source\repos\persontype\persontype\bandmember.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  personTypeImp.cpp
+c:\users\iselby646\source\repos\persontype\persontype\persontypeimp.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\iselby646\source\repos\persontype\persontype\persontypeimp.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\iselby646\source\repos\persontype\persontype\bandmember.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  PersonDriver.cpp
+c:\users\iselby646\source\repos\persontype\persontype\persondriver.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\iselby646\source\repos\persontype\persontype\persondriver.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\iselby646\source\repos\persontype\persontype\bandmember.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  personType.vcxproj -> C:\Users\iselby646\source\repos\personType\Debug\personType.exe

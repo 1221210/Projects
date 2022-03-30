@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\projects\chapter10\ch10 clocks\ch10 clocks\source.cpp(27): warning C4101: 'seconds': unreferenced local variable
+e:\projects\chapter10\ch10 clocks\ch10 clocks\source.cpp(27): warning C4101: 'minutes': unreferenced local variable
+e:\projects\chapter10\ch10 clocks\ch10 clocks\source.cpp(27): warning C4101: 'hours': unreferenced local variable
+  ch10 Clocks.vcxproj -> E:\projects\chapter10\ch10 Clocks\Debug\ch10 Clocks.exe

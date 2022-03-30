@@ -1,0 +1,9 @@
+ nnnnnnnn nnnnnnnn nnnnnnnn       nn nnnnn
+ nnnnnnnn nnnnnnnn nnnnnnnn       nn nnnnn
+    nn    nnn  nnn nn    nn       nn nn nn
+    nn    nnn  nnn nn    nn nnnnn nn nnnnn
+    nn    nnnnnnnn nn    nn nnnnn nn nnnnn
+    nn    nnnnnnnn nn    nn       nn    nn
+    nn    nn    nn nn    nn       nn    nn
+ nnnnnnnn nn    nn nn    nn       nn    nn
+ nnnnnnnn nn    nn nn    nn       nn    nn

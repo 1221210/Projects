@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ch10example 2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  clockTypeImp.cpp
+  Source.cpp
+  Generating Code...
+  ch10example 2.vcxproj -> E:\projects\chapter10\ch10pairShareSelby\ch10example 2\Debug\ch10PairShare.exe

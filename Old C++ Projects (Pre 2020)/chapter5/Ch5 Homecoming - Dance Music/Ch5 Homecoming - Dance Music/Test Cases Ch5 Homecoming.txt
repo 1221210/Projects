@@ -1,0 +1,122 @@
+﻿Test Cases CH5 Homecoming 
+
+
+
+
+
+
+Test for Band Management
+	How to test
+	Did test work
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Test for Music Management
+	How to test
+	Did test work
+	Does the program stop when time is up?
+	Run the program until the time reaches 0, see if it stops the loop and continues to the next segment.
+	Yes
+	Does it read input from a file?
+	See if there is any code that implements what is supposed to be inside of the text file instead of reading it from the text file.
+	Yes
+	Does the program not display the next song if time is up?
+	Run the program until time reaches 0, see if the next song is displayed anyways.
+	Yes
+	Does the program move back to the main menu?
+	Reach the end of the program, then see if it goes back to the main menu.
+	Yes
+	
+
+
+
+Test for Snack Bar
+	How to test
+	Did test work
+	Does program only display in stock items? 
+	Buy all but one hot snack and cycle the program to run through again causing the remaining hot food to be the only one showing besides out of stock statements.
+	Yes
+	Does the program always have snacks in stock until hot food have sold out ?
+	Run the program, opting to keep buying snacks and do not buy all of the hot snacks immediately.
+	Yes
+	Does the program close or redirect when out of hot foods?
+	Run the program out of hot food stock and opt to keep purchasing when prompted.
+	Yes
+	Does program allow user to buy as many of any item as long as it is in stock?
+	Go crazy buying everything.
+	Yes
+	
+
+Test for Football Scoreboard
+	How to test
+	Did test work
+	Did team use while loop
+	See if a process repeated many times
+	Yes
+	Did prompt touchdown and number of field goals for each quarter
+	See if displays number of touchdowns & goals after each quarter
+	Yes
+	Did calculate and display number of points per team per quarter
+	Check Calculations and display of points number of points per team per quarter
+
+
+	Yes
+	See if clear winner when not tied score
+	See if score tied and if displays clear winner
+	Yes
+	Did congratulate winner
+	See if congratulate winner displayed
+	Yes
+	When tied after 4 quarters, display overtime
+	Make score tied and see if displayed overtime
+	Yes
+	Prompt again for score events until un-tied score and calculations correct
+	See if prompt score again until score un-tied and check calculations
+	Yes
+	Congratulate winner after overtime
+	See if it displays congratulate winner after overtime
+	Yes
+	
+
+
+
+Test Extra Credit ?
+	How to test
+	Did test work
+	Does it work as intended?
+	Test the menu to see if it pops up after each segment is done (i.e scoreboard management, dance music management, etc)
+	Yes
+	Does it allow user input to go to the next segment they want to?
+	Test the menu to see if the program continues to the segment the user inputted.
+	Yes
+	Do all menu options work?
+	Go through all menu options and see if they all work as intended.
+	Yes
+	Does the menu allow the user to exit the program?
+	Test the menu exit function.
+	Yes

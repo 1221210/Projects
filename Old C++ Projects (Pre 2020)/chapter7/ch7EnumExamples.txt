@@ -1,0 +1,73 @@
+//Ian Selby 10/1/18
+// WILL ASK TO INPUT SIDES OF A TRIANGLE AND DETERMINE IF IT IS A TRIANGLE USING ENUMS
+
+
+
+#include <iostream>
+using namespace std;
+
+enum triangleType { SCALINE, ISOSCELES, EQUALATERAL, NOTTA };
+// more practice weiting Functions
+triangleType triangleShape (double side1, double side2, double side3);
+void printShape(triangleType triangle);
+
+int main()
+{
+	// local variables to hold the lenghts of the sides of the triangle
+	double s1, s2, s3;
+
+	cout << "Hi User. This programe is going to ask you to enter three sides and then tell you what type of triangle it is." << endl;
+
+	cout << "Please enter the length of the first side now" << endl;
+	cin >> s1;
+
+	cout << "Please enter the length of the second side now " << endl;
+	cin >> s2; 
+	
+	cout << "Please enter the length of the third side now " << endl;
+	cin >> s3;
+
+	cout << "Based on the sides you entered, this is ";
+		printShape(triangleShape(s1, s2, s3));
+	cout << "triangle" << endl;
+	
+	system("pause");
+	return 0;
+
+}
+
+triangleType triangleShape(double side1, double side2, double side3)
+{
+	if (side1 == side2 && side3)
+		return EQUALATERAL;
+	else if ((side1 + side2 > side3) &&
+		(side2 + side3 > side1) &&
+		(side3 + side1 > side2)) // if all true make a trianglular device
+		if (side1 == side2 || side2 == side3 || side1 == side3) // isos triangular
+			return ISOSCELES;
+		else 
+			return SCALINE;
+	else
+			return NOTTA;
+
+	cout << "??? ???????? ??? ??????" << endl;
+
+}
+
+void printShape(triangleType triangle)
+{
+
+	switch (triangle)
+	{
+	case EQUALATERAL:
+		cout << "EQUALATERAL" << endl;
+		break;
+	case SCALINE:
+		cout << "SCALINE" << endl;
+		break;
+	case NOTTA:
+		cout << "NOT A" << endl;
+	}
+
+}
+

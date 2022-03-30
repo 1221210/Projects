@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\ch8oyoairplane\ch8oyoairplane\source.cpp(745): warning C4101: 'column1': unreferenced local variable
+  ch8oyoAirplane.vcxproj -> E:\ch8oyoAirplane\Debug\ch8oyoAirplane.exe

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Java Projects">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Ch6Bullseye.zip!/" />
+      <root url="jar://$PROJECT_DIR$/InheritanceOYOSelby.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe.zip!/" />
+      <root url="jar://$PROJECT_DIR$/JTabbedFrameBGS.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Shapes2JPanel.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Ch12GridBag.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Ch7gradebook.zip!/" />
+      <root url="jar://$PROJECT_DIR$/CalculatorOyOCh6.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Ch11ErrorHandlingBGS.zip!/" />
+      <root url="jar://$PROJECT_DIR$/JavaGuiAndGraphicsBGScomboBoxSelby.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
