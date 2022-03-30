@@ -1,0 +1,1 @@
+music file works in bin folder.
