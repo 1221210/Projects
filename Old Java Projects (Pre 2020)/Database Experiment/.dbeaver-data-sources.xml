@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="mysql8-16a2751be18-6d625217bc943a60" provider="mysql" driver="mysql8" name="MySQL 8+ - localhost" save-password="true" read-only="false">
+		<connection host="localhost" port="3306" server="" database="" url="jdbc:mysql://localhost:3306/" user="root" password="CgsHM1UjpQ==" home="C:\Program Files\MySQL\MySQL Router 8.0" type="dev"/>
+	</data-source>
+	<data-source id="mysql8-16a27530fd8-35e920d1daab422a" provider="mysql" driver="mysql8" name="MySQL 8+ - localhost 2" save-password="true" read-only="false">
+		<connection host="localhost" port="3306" server="" database="" url="jdbc:mysql://localhost:3306/" user="root" password="CgsHM1UjpQ==" home="C:\Program Files\MySQL\MySQL Router 8.0" type="dev"/>
+	</data-source>
+	<filters/>
+</data-sources>
